@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**evankhan001cse/evankhan001cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Evan 👋
 
-Here are some ideas to get you started:
+🎓 CSE Undergraduate at IIUC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 Currently learning C Programming
+- 💻 Practicing programming and problem solving
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🎯 Goal: Build useful software projects
+
+## Skills
+- C Programming (Learning)
+- Basic Problem Solving
+- GitHub (Learning)
+
+## Current Focus
+- Improving my C programming skills
+- Solving beginner programming problems
+- Building my first projects
+
+## Connect with Me
+- GitHub: https://github.com/evankhan001cse
+
