@@ -17,7 +17,7 @@ I am a computer science student building my programming foundations through cour
 
 ### [C Programming Practice](https://github.com/evankhan001cse/c-programming-practice)
 
-A collection of introductory C programs covering basic program structure, input/output, arithmetic, and conditional logic.
+A beginner-friendly collection of C examples covering basic program structure, input/output, arithmetic, and conditional logic. The repository also includes a Makefile, a GitHub Actions compile workflow, and a documented university problem tracker.
 
 ### [Problem-Solving Practice Tracker](https://github.com/evankhan001cse/c-programming-practice/tree/main/problem-tracker)
 
