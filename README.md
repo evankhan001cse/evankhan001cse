@@ -23,16 +23,29 @@ A beginner-friendly collection of C examples covering basic program structure, i
 
 My university course tracker records **98 AC entries** across Beecrowd, Codeforces, and HackerRank. The entries correspond to **97 unique problem URLs** because one URL appears twice in the source tracker. This is a record of course-tracker data, not a claim that all solution source files are published here.
 
+## Credentials & Achievements
+
+I maintain a record of my completed courses, skill certifications, contest participation, and badges.
+
+- [Certificates and course credentials](certificates/README.md)
+- [Programming contest participation](competitions/README.md)
+- [Olympiad and delegate badges](badges/README.md)
+
+Selected credentials:
+- [Elements of AI — University of Helsinki / MinnaLearn (2 ECTS)](https://certificates.mooc.fi/validate/7o5j5e3fosw)
+- [Python for Data Science — IBM](https://www.credly.com/badges/f0e5259e-92ce-4d28-a0fa-d614237dd0b9)
+- [Python 101 for Data Science — Cognitive Class / IBM Developer Skills Network](https://courses.cognitiveclass.ai/certificates/382d949752e242738e7d9c7130b1d942)
+- HackerRank: Python (Basic) and Problem Solving (Basic)
+- NASA Open Science 101
+- Google Gemini Certified Student (K12)
+
+Participation certificates and preliminary badges are labelled separately from skill certifications and course-completion credentials.
+
 ## Coding Profiles
 
 - [Codeforces](https://codeforces.com/profile/evan982) — `evan982`
 - [HackerRank](https://www.hackerrank.com/profile/evankhan01) — `evankhan01`
 - Beecrowd — `beecrowd65`
-
-## Selected Learning Credentials
-
-- [Elements of AI](https://certificates.mooc.fi/validate/7o5j5e3fosw)
-- [Python for Data Science — IBM](https://www.credly.com/badges/f0e5259e-92ce-4d28-a0fa-d614237dd0b9)
 
 ## Interests
 
