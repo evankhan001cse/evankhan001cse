@@ -1,7 +1,5 @@
 # Olympiad & Delegate Badges
 
-**The original badge PDF is not hosted in this repository yet.**
-
 ## 2nd International General Science Olympiad (GSO) 2026
 
 - **Credential:** Official Delegate Badge
@@ -9,6 +7,8 @@
 - **Institution:** International Islamic University Chittagong
 - **Level:** University
 - **Issued:** 19 October 2026
-- **Recorded status:** Preliminary badge issued / preliminary entry validated
+- **Recorded status:** Preliminary delegate / entry badge
 
-This is recorded as a delegate/entry badge, not as a final-round certificate, medal, or award.
+This is a preliminary delegate badge. It is **not** a final-round certificate, medal, or award.
+
+The original GSO badge PDF was not included in the supplied evidence ZIP and is not hosted in this repository.
