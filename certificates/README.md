@@ -1,13 +1,14 @@
 # Certificates & Course Credentials
 
-This page records completed courses and skill certifications. Dates and credential details below were transcribed from the certificate files.
+This page records completed courses and skill certifications from the certificate documents. **The original PDF files are not hosted in this repository yet**; public verification links are included where the supplied documents contained them.
 
 ## Skill Certifications
 
 | Credential | Issuer | Earned | Reference |
 |---|---|---:|---|
 | Python (Basic) | HackerRank | 28 Jan 2026 | Certificate ID: `A12A948B3881`; [HackerRank profile](https://www.hackerrank.com/profile/evankhan01) |
-| Problem Solving (Basic) | HackerRank | 16 Oct 2026 | Certificate ID: `7B228DBB41C2`; [HackerRank profile](https://www.hackerrank.com/profile/evankhan01) |
+| Problem Solving (Basic) | HackerRank | 28 Jan 2026 | Earlier certificate; ID: `EF090BB4653D`; [HackerRank profile](https://www.hackerrank.com/profile/evankhan01) |
+| Problem Solving (Basic) | HackerRank | 16 Oct 2026 | Later certificate; ID: `7B228DBB41C2`; [HackerRank profile](https://www.hackerrank.com/profile/evankhan01) |
 
 ## Course Completion Credentials
 
@@ -21,7 +22,8 @@ This page records completed courses and skill certifications. Dates and credenti
 
 ## Notes
 
-- The HackerRank Problem Solving entry uses the later certificate dated 16 October 2026.
+- Two distinct HackerRank Problem Solving (Basic) certificates were present, dated 28 January and 16 October 2026; both are recorded with their separate IDs.
 - The IBM Python for Data Science Credly badge and Python 101 for Data Science course certificate are separate credentials, so both are listed.
 - The Google credential is specifically labelled **K12**; it is not represented as a university-level certification.
+- Two copies of the NASA Open Science 101 certificate and two copies of the Cloudflight CCC participation certificate were present; each course/event is listed once.
 - Where a public verification URL was present in the supplied credential, it is linked above. Other entries are recorded from the certificate documents.
