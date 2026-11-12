@@ -1,5 +1,7 @@
 # Olympiad & Delegate Badges
 
+**The original badge PDF is not hosted in this repository yet.**
+
 ## 2nd International General Science Olympiad (GSO) 2026
 
 - **Credential:** Official Delegate Badge
